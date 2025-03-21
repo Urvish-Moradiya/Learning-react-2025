@@ -1,0 +1,13 @@
+#root{
+    width: 100%;
+}
+ul{
+    background-color: rgba(218, 118, 36, 0.715);
+    color: rgb(12, 13, 13);
+    font-size:20px;
+    display: flex;
+    list-style: none;
+}
+li{
+    padding: 2px 10px;
+}

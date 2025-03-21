@@ -1,6 +1,5 @@
 import React from 'react'
-import '../assets/Content.css'
-import image from '../assets/images/Kedarkanthatrek.jpg'
+import '../../assets/Content.css'
 export const Content = () => {
    
     return (
@@ -17,7 +16,6 @@ export const Content = () => {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem quia sequi iste, eaque esse quam illum tempora? Qui voluptas ducimus dignissimos perferendis ab nisi ullam tenetur, corrupti velit soluta libero?
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta ad cum officia magni corporis fugiat repudiandae blanditiis eum saepe. Libero repellat aliquam minima error ea, repudiandae quia iure beatae distinctio.
             </p>
-            <img src={image} alt="About Us" />
           </div>
         </div>
 

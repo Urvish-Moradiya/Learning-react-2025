@@ -1,0 +1,46 @@
+.full-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .front {
+    width: 100%;    
+    max-width: 80%;
+    line-height: 1.4; 
+    margin: 0;
+  }
+
+  .front p {
+    font-size: 18px;
+  }
+  .about {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .about h1 {
+    margin-bottom: 20px;
+  }
+  
+  .content {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 20px;
+  }
+  
+  .content p {
+    flex: 1;
+    font-size: 18px;
+    text-align: left;
+    line-height: 1.6;
+  }
+  
+  .content img {
+    max-width: 35%;
+  }
+  
+  
